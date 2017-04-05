@@ -1,6 +1,36 @@
 # Awesome EmberJS Posts
 
-#### Updated: 2017-03-31
+#### Updated: 2017-04-05
+
+
+
+### 2017-04-04
+* [Why I’m excited about GlimmerJS](https://hackernoon.com/why-im-excited-about-glimmerjs-3631bd0c95c4) by Tristan Edwards
+
+
+### 2017-04-03
+* [Is Your Ember App Too Big? Split it up with Ember Engines, Part 3](https://www.bignerdranch.com/blog/is-your-ember-app-too-big-split-it-up-with-ember-enginges-part-3/) by Todd Gandee
+
+
+### 2017-03-30
+* [Inline SVG with Ember-Concurrency](http://hbrysiewicz.com/2017-03-30-inline-svg.html) by Heather Brysiewicz
+
+
+### 2017-03-28
+* [Less than *ambitious* websites with Ember.js](https://www.codementor.io/sheriffderek/less-than-ambitious-websites-with-ember-js-5mtthoijp) by Derek Sheriff
+
+
+### 2017-03-27
+* [Is Your Ember App Too Big? Split it up with Ember Engines, Part 2](https://www.bignerdranch.com/blog/is-your-ember-app-too-big-split-it-up-with-ember-engines-part-2/) by Todd Gandee
+* [Rendering 10 Million Items with {{vertical-collection}} and Ember.js](https://build.addepar.com/engineering/rendering-10-million-items-with-vertical-collection/) by Chris Garrett
+
+
+### 2017-03-23
+* [Better UI testing in Ember](https://medium.com/appaloosa-store-engineering/better-ui-testing-in-ember-5d272b0a5cf3) by Benjamin Jegard
+
+
+### 2017-02-08
+* [Is Your Ember App Too Big? Split It Up with Ember Engines](https://www.bignerdranch.com/blog/is-your-ember-app-too-big-split-it-up-with-ember-engines/) by Todd Gandee
 
 
 ### 2017-01-27
@@ -38,6 +68,10 @@
 
 ### 2016-09-30
 * [Rendering a Promise Before it Resolves](https://emberigniter.com/render-promise-before-it-resolves/) by Frank Treacy
+
+
+### 2016-09-27
+* [Creating Ember Blueprints](https://www.bignerdranch.com/blog/creating-ember-blueprints/) by Todd Gandee
 
 
 ### 2016-09-25
