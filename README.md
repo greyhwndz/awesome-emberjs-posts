@@ -254,6 +254,10 @@
 
 
 ### 2016-04-13
+* [Trick for Build Composable Components - Part 1](http://miguelcamba.com/blog/2016/04/13/tricks-for-build-composable-components-part-1/) by Miguel Camba
+
+
+### 2016-04-13
 * [Building a performant real-time web app with Ember Fastboot and Phoenix (Part 2)](https://medium.com/peep-stack/building-a-performant-real-time-web-app-with-ember-fastboot-and-phoenix-part-2-5dd2f74c7f34#.tc4guaec1) by Mike North
 
 
@@ -305,6 +309,10 @@
 
 ### 2016-01-29
 * [Working With Nested Data In Ember Data Models](http://thejsguy.com/2016/01/29/working-with-nested-data-in-ember-data-models.html) by David Tang
+
+
+### 2016-01-24
+* [Ember Closure Actions in Depth](http://miguelcamba.com/blog/2016/01/24/ember-closure-actions-in-depth/) by Miguel Camba
 
 
 ### 2016-01-23
@@ -359,6 +367,10 @@
 
 ### 2015-08-03
 * [How to Transform Just About Any Data Structure with Reduce](https://emberigniter.com/transform-any-data-structure-with-javascript-reduce/) by Frank Treacy
+
+
+### 2015-07-18
+* [How to Inject the Current User Using Ember-simple-auth in Ember 2.0](http://miguelcamba.com/blog/2015/06/18/how-to-inject-the-current-user-using-ember-simple-auth/) by Miguel Camba
 
 
 ### 2015-07-08
