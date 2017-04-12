@@ -54,7 +54,7 @@
 
 
 ### 2017-02-10
-* [Cascade Deleting Relationships in Ember Data](Cascade Deleting Relationships in Ember Data) by David Tang
+* [Cascade Deleting Relationships in Ember Data](http://thejsguy.com/2017/02/10/cascade-deleting-relationships-in-ember-data.html) by David Tang
 
 
 ### 2017-02-08
