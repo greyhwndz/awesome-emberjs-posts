@@ -377,4 +377,4 @@
 ## VIDEOS
 
 ### 
-* [](https://vimeo.com/212534548) by Toran Billups
+* [ember redux](https://vimeo.com/212534548) by Toran Billups
