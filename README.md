@@ -12,6 +12,10 @@
 * [Ember-Electron 2: Building Desktop Apps with Ember and Electron](https://felixrieseberg.com/ember-electron-2/) by Felix Rieseberg
 
 
+### 2017-04-05
+* [The Glimmer VM: Boots Fast and Stays Fast](http://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/) by Yehuda Katz
+
+
 ### 2017-04-04
 * [Why I’m excited about GlimmerJS](https://hackernoon.com/why-im-excited-about-glimmerjs-3631bd0c95c4) by Tristan Edwards
 
