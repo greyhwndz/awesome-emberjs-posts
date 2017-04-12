@@ -1,7 +1,15 @@
 # Awesome EmberJS Posts
 
-#### Updated: 2017-04-10
+#### Updated: 2017-04-12
 
+
+
+### 2017-04-11
+* [The Future of Ember’s Testing and the Beheading of jQuery](http://miguelcamba.com/blog/2017/04/11/the-future-of-embers-testing-and-the-beheading-of-jquery/) by Miguel Camba
+
+
+### 2017-04-10
+* [Ember-Electron 2: Building Desktop Apps with Ember and Electron](https://felixrieseberg.com/ember-electron-2/) by Felix Rieseberg
 
 
 ### 2017-04-04
@@ -363,3 +371,10 @@
 
 ### 2014-11-16
 * [Metaprogramming and client side storage with EmberJS](https://emberway.io/metaprogramming-in-emberjs-627921395299) by Chris Atkins
+
+
+
+## VIDEOS
+
+### 
+* [](https://vimeo.com/212534548) by Toran Billups
