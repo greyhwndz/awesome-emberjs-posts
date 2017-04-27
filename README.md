@@ -4,6 +4,10 @@
 
 
 
+### 2017-04-22
+* [ember-rideshare](https://dunningpostor.com/ember-rideshare/) by Alex Matchneer
+
+
 ### 2017-04-11
 * [The Future of Ember’s Testing and the Beheading of jQuery](http://miguelcamba.com/blog/2017/04/11/the-future-of-embers-testing-and-the-beheading-of-jquery/) by Miguel Camba
 
