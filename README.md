@@ -1,11 +1,15 @@
 # Awesome EmberJS Posts
 
-#### Updated: 2017-04-12
+#### Updated: 2017-04-28
 
 
 
 ### 2017-04-22
 * [ember-rideshare](https://dunningpostor.com/ember-rideshare/) by Alex Matchneer
+
+
+### 2017-04-13
+* [What you didn't know about class and attribute bindings in Ember](http://blog.deveo.com/what-you-didnt-know-about-class-and-attribute-bindings-in-ember/#comment-3276925328) by Andrey Mikhaylov
 
 
 ### 2017-04-11
@@ -49,8 +53,16 @@
 * [Better UI testing in Ember](https://medium.com/appaloosa-store-engineering/better-ui-testing-in-ember-5d272b0a5cf3) by Benjamin Jegard
 
 
+### 2017-03-21
+* [On Computed Properties vs. Helpers](https://simplabs.com/blog/2017/03/21/on-computed-properties-vs-helpers.html) by MARCO OTTE-WITTE
+
+
 ### 2017-03-17
 * [Testing Ember Component Actions When Components Build On Top Of Components](https://www.mutuallyhuman.com/blog/2017/03/17/testing-ember-component-actions-when-components-build-on-top-of-components) by Zach Dennis
+
+
+### 2017-03-07
+* [PromiseProxyMixin: pure Ember alternative to ember-concurrency](http://blog.deveo.com/promiseproxymixin-pure-ember-alternative-to-ember-concurrency/) by Andrey Mikhaylov
 
 
 ### 2017-02-20
