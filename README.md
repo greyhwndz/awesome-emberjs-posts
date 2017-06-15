@@ -1,11 +1,44 @@
 # Awesome EmberJS Posts
 
-#### Updated: 2017-04-28
+#### Updated: 2017-06-15
 
+
+### 2017-05-05
+* [A note on actions](https://embermap.com/notes/26-a-note-on-actions) by Sam Selikoff
+
+
+### 2017-05-01
+* [Ember Actions: Best Practices](https://medium.com/@jordanvincent/ember-actions-best-practices-442be5eed88d) by Jordan Vincent
+* [Lessons from a year in JavaScript —AngularJS vs EmberJS](https://medium.com/@bradleybirch09/lessons-from-a-year-in-javascript-angularjs-vs-emberjs-40c88d6f4d95) by Bradley Birch
+
+
+### 2017-04-30
+* [Ember Tips: Managing Timeouts and Delays](https://karolgalanciak.com/blog/2017/04/30/ember-quick-tips-managing-timeouts-and-delays/) by Karol Galanciak
+
+
+### 2017-04-27
+* [Going to ng-conf as an Ember.js user](https://medium.com/@tarasm/going-to-ng-conf-as-an-ember-js-user-212804ded0) by Taras Mankovski
+
+
+### 2017-04-26
+* [Does Glimmer mean the death of Ember?](http://rwjblue.com/2017/04/26/does-glimmer-kill-ember/) by Robert Jackson
+* [Pure Computed Properties in Ember](https://spin.atomicobject.com/2017/04/26/ember-pure-computed-properties/) by Shawn Anderson
 
 
 ### 2017-04-22
 * [ember-rideshare](https://dunningpostor.com/ember-rideshare/) by Alex Matchneer
+
+
+### 2017-04-21
+* [Ember CLI Targets](http://rwjblue.com/2017/04/21/ember-cli-targets/) by Robert Jackson
+
+
+### 2017-04-18
+* [Deploying Glimmer Apps](http://rwjblue.com/2017/04/18/deploying-glimmer-apps/) by Robert Jackson
+
+
+### 2017-04-15
+* [Acceptance testing — best practice: page object](https://medium.com/@cs3b/acceptance-testing-with-page-object-nesting-8c3c7384f367) by Michał Czyż
 
 
 ### 2017-04-13
@@ -47,6 +80,10 @@
 ### 2017-03-27
 * [Is Your Ember App Too Big? Split it up with Ember Engines, Part 2](https://www.bignerdranch.com/blog/is-your-ember-app-too-big-split-it-up-with-ember-engines-part-2/) by Todd Gandee
 * [Rendering 10 Million Items with {{vertical-collection}} and Ember.js](https://build.addepar.com/engineering/rendering-10-million-items-with-vertical-collection/) by Chris Garrett
+
+
+### 2017-03-26
+* [Test Driven Ember - Testing Holding a Button](https://karolgalanciak.com/blog/2017/03/26/test-driven-ember-testing-holding-button/) by Karol Galanciak
 
 
 ### 2017-03-23
@@ -93,6 +130,10 @@
 * [How Ember.js made me a better developer in 2016](https://medium.com/@martinmalinda/how-ember-js-made-me-a-better-developer-in-2016-7c6543f7fa03) by Martin Malinda
 
 
+### 2016-12-11
+* [Ember Tips: Computed Properties and Arrow Functions? Not a Good Idea](https://karolgalanciak.com/blog/2016/12/11/ember-tips-computed-properties-and-arrow-functions-not-a-good-idea/) by Karol Galanciak
+
+
 ### 2016-11-22
 * [Sending Actions up to the Data Owner](https://emberigniter.com/send-closure-actions-up-data-owner/) by Frank Treacy
 
@@ -111,6 +152,10 @@
 
 ### 2016-11-03
 * [Getting Started with Ember and Data Down Actions Up](https://emberigniter.com/getting-started-ember-cli-data-down-actions-up-tutorial/) by Frank Treacy
+
+
+### 2016-11-01
+* [Building a sticky chatbox](https://blog.embermap.com/building-a-sticky-chatbox-3d50272c2e0c) by Sam Selikoff
 
 
 ### 2016-10-30
@@ -312,6 +357,7 @@
 
 ### 2016-02-07
 * [Integrating SASS and Bootstrap to Ember Components](https://emberigniter.com/integrating-sass-bootstrap-ember-components/) by Frank Treacy
+* [Implementing non-RESTful Actions With Ember Data](https://karolgalanciak.com/blog/2016/02/07/implementing-non-restful-actions-with-ember-data/) by Karol Galanciak
 
 
 ### 2016-02-06
@@ -410,3 +456,13 @@
 
 ### 
 * [ember redux](https://vimeo.com/212534548) by Toran Billups
+
+### 2017-02-21
+* [Intermediate test driven development 201 “Over Mocking”](https://vimeo.com/205000323) by Toran Billups
+* [Intermediate test driven development 202 “Deleting Tests”](https://vimeo.com/205001954) by Toran Billups
+* [Intermediate test driven development 203 “Faster Feedback”](https://vimeo.com/205002536) by Toran Billups
+* [Intermediate test driven development 204 “Unit Or Integration”](https://vimeo.com/205003371) by Toran Billups
+* [Redux: the beginner friendly introduction](https://vimeo.com/151603293) by Toran Billups
+
+### 2016-05-111
+* [Ember-Redux Origin Story](https://vimeo.com/166199795) by Toran Billups
