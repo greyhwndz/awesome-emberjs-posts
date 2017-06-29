@@ -1,13 +1,7 @@
 # Awesome EmberJS Posts
 
-#### Updated: 2017-06-16
+#### Updated: 2017-06-29
 
-
-
-
-
-### 2017-05-05
-* [A note on actions](https://embermap.com/notes/26-a-note-on-actions) by Sam Selikoff
 
 
 ### 2017-06-16
@@ -16,6 +10,14 @@
 * [Complex Components in Ember - Part 2 - A more reactive component](https://balinterdi.com/blog/complex-components-in-ember-dot-js-part-2-towards-a-more-reactive-component/) by Balint Erdi
 * [Complex Component Design in Ember - Part 3 - Replace the observer](https://balinterdi.com/blog/complex-component-design-in-ember-replace-the-observer/) by Balint Erdi
 * [Building a Progressive Web App with Ember](https://madhatted.com/2017/6/16/building-a-progressive-web-app-with-ember) by Matthew Beale
+
+
+### 2017-06-09
+* [Delete an item with confirmation in Ember.js](https://balinterdi.com/blog/delete-with-confirmation-in-emberjs/) by Balint Erdi
+
+
+### 2017-05-05
+* [A note on actions](https://embermap.com/notes/26-a-note-on-actions) by Sam Selikoff
 
 
 ### 2017-05-01
@@ -113,6 +115,10 @@
 * [PromiseProxyMixin: pure Ember alternative to ember-concurrency](http://blog.deveo.com/promiseproxymixin-pure-ember-alternative-to-ember-concurrency/) by Andrey Mikhaylov
 
 
+### 2017-03-01
+* [Building a Keyboard Manager Service in Ember.JS](https://emberway.io/building-a-keyboard-manager-service-in-ember-js-4012861a5d6f) by Patrick Berkeley
+
+
 ### 2017-02-20
 * [Encapsulate Relationship Logic In Your Ember Data Model](http://thejsguy.com/2017/02/20/encapsulate-relationship-logic-in-your-ember-data-model.html) by David Tang
 
@@ -133,6 +139,10 @@
 * [Building a complex web application with Ember.js 2.11](http://yoember.com/) by Zoltan
 
 
+### 2017-01-06
+* [Exploring Ember Closure Actions Part 2: New Patterns](http://ryanlabouve.com/ember-closure-action-explorations-pt-2) by Ryan LaBouve
+
+
 ### 2017-01-03
 * [Online Status with Phoenix Presence and Ember](https://m.brianmcmanus.org/online-status-with-phoenix-presence-and-ember-687348d1c351) by Brian McManus
 
@@ -141,8 +151,16 @@
 * [How Ember.js made me a better developer in 2016](https://medium.com/@martinmalinda/how-ember-js-made-me-a-better-developer-in-2016-7c6543f7fa03) by Martin Malinda
 
 
+### 2016-12-29
+* [Ember Closure Action Explorations Pt 1](http://ryanlabouve.com/ember-closure-action-explorations-pt-1) by Ryan LaBouve
+
+
 ### 2016-12-11
 * [Ember Tips: Computed Properties and Arrow Functions? Not a Good Idea](https://karolgalanciak.com/blog/2016/12/11/ember-tips-computed-properties-and-arrow-functions-not-a-good-idea/) by Karol Galanciak
+
+
+### 2016-12-10
+* [Using ember-changeset with ember-redux](https://emberway.io/using-ember-changeset-with-ember-redux-200a7e46c59a) by Dustin Farris
 
 
 ### 2016-11-22
@@ -159,6 +177,14 @@
 
 ### 2016-12-10
 * [Using ember-changeset with ember-redux](https://emberway.io/using-ember-changeset-with-ember-redux-200a7e46c59a) by Dustin Farris
+
+
+### 2016-11-29
+* [Two-way symmetric relationships in Ember with JSON API - Part 2](https://balinterdi.com/blog/two-way-symmetric-relationships-in-ember-with-jsonapi-part-2/) by Balint Erdi
+
+
+### 2016-11-17
+* [Two-way symmetric relationships in Ember with JSON API - Part 1](https://balinterdi.com/blog/two-way-symmetric-relationships-in-ember-with-jsonapi-part-1/) by Balint Erdi
 
 
 ### 2016-11-03
@@ -283,6 +309,11 @@
 * [Fit Any Backend Into Ember with Custom Adapters & Serializers](https://emberigniter.com/fit-any-backend-into-ember-custom-adapters-serializers/) by Frank Treacy
 
 
+### 2016-01-27
+* [JWT Authentication with Rails + Ember Part I: Rails Knock](http://www.thegreatcodeadventure.com/jwt-authentication-with-rails-ember-part-i-rails-knock/) by Sophie DeBenedetto
+* [JWT Authentication with Rails + Ember Part II: Custom Ember Simple Auth](http://www.thegreatcodeadventure.com/jwt-authentication-with-rails-ember-part-ii-custom-ember-simple-auth/) by Sophie DeBenedetto
+
+
 ### 2016-05-26
 * [Quickest Backend API for Ember](https://emberigniter.com/quickest-backend-api-for-ember/)
 
@@ -325,11 +356,16 @@
 * [Building a performant real-time web app with Ember Fastboot and Phoenix (Part 3)](https://medium.com/peep-stack/building-a-performant-real-time-web-app-with-ember-fastboot-and-phoenix-part-3-dd0e03232034#.f0j28mhts) by Mike North
 
 
+### 2016-04-22
+* [Route Closure Actions in Ember.js](https://emberway.io/route-closure-actions-in-ember-js-d0a7a37a5d1b) by Lauren Elizabeth Tan
+
+
+### 2016-04-16
+* [Update: Setting a Current User Property with Ember Simple Auth](http://www.thegreatcodeadventure.com/update-setting-a-current-user-property-with-ember-simple-auth/) by Sophie DeBenedetto
+
+
 ### 2016-04-13
 * [Trick for Build Composable Components - Part 1](http://miguelcamba.com/blog/2016/04/13/tricks-for-build-composable-components-part-1/) by Miguel Camba
-
-
-### 2016-04-13
 * [Building a performant real-time web app with Ember Fastboot and Phoenix (Part 2)](https://medium.com/peep-stack/building-a-performant-real-time-web-app-with-ember-fastboot-and-phoenix-part-2-5dd2f74c7f34#.tc4guaec1) by Mike North
 
 
@@ -341,12 +377,24 @@
 * [Get Up and Running with Ember FastBoot](http://thejsguy.com/2016/04/08/get-up-and-running-with-ember-fastboot.html) by David Tang
 
 
+### 2016-04-02
+* [Using Ember Charts to Integrate D3.js into your Ember App](http://www.thegreatcodeadventure.com/using-ember-charts-to-integrate-d3-with-ember/) by Sophie DeBenedetto
+
+
+### 2016-03-16
+* [Building User Registration with Ember Simple Auth](http://www.thegreatcodeadventure.com/building-user-registration-with-ember-simple-auth/) by Sophie DeBenedetto
+
+
 ### 2016-03-12
 * [Promises and Closure Actions in Ember](http://thejsguy.com/2016/03/12/promises-and-closure-actions-in-ember.html) by David Tang
 
 
 ### 2016-03-06
 * [Customizing Relationship Links with JSON API](https://emberigniter.com/custom-relationship-links-json-api/) by Frank Treacy
+
+
+### 2016-03-04
+* [Why JSON Web Tokens Are Truly Awesome](https://medium.com/@leo/why-json-web-tokens-are-truly-awesome-23fb80b7fc20) by Leo Lamprecht
 
 
 ### 2016-02-28
@@ -356,10 +404,16 @@
 ### 2016-02-27
 * [What are Ember Data Snapshots?](http://thejsguy.com/2016/02/27/what-are-ember-data-snapshots.html) by David Tang
 * [Generating static websites with Ember-CLI and Fastboot](https://medium.com/developers-writing/generating-static-websites-with-ember-cli-and-fastboot-88f0d2db13cb) by Martin Malinda
+* [Persisting Records with Has Many/Belongs To in Ember](http://www.thegreatcodeadventure.com/persisting-records-with-has-many-belongs-to-in-ember/) by Sophie DeBenedetto
+* [Creating New Records with Ember's Embedded Record Mixin](http://www.thegreatcodeadventure.com/creating-new-records-with-embers-embedded-record-mixin/) by Sophie DeBenedetto
 
 
 ### 2016-02-21
 * [Handling Nested Resources and Relationship Links in Ember Data](http://thejsguy.com/2016/02/21/handling-nested-resources-in-ember-data.html) by David Tang
+
+
+### 2016-02-20
+* [Creating a Current User Property in Ember](http://www.thegreatcodeadventure.com/creating-a-current-user-property-in-ember/) by Sophie DeBenedetto
 
 
 ### 2016-02-17
@@ -398,6 +452,7 @@
 
 ### 2016-01-18
 * [How to Deploy an Ember CLI app to Amazon S3 or a Linux box](https://emberigniter.com/deploy-ember-cli-app-amazon-s3-linux-ssh-rsync/) by Frank Treacy
+* [Ember: Get Shit Done](https://emberway.io/ember-get-shit-done-36383c2ccc53) by Jon Pitcherella
 
 
 ### 2016-01-14
@@ -434,6 +489,14 @@
 * [How to Load Multiple Models in a Single Route](https://emberigniter.com/load-multiple-models-single-route/) by Frank Treacy
 
 
+### 2015-08-30
+* [Server-Side Validation in Your Ember Application](https://www.bignerdranch.com/blog/server-side-validation-in-your-ember-application/) by Geoffrey Schorkopf
+
+
+### 2015-08-11
+* [Create your first Ember 2.0 app: From authentication to calling an API](https://auth0.com/blog/create-your-first-ember-2-dot-0-app-from-authentication-to-calling-an-api/) by Diego Poza
+
+
 ### 2015-08-05
 * [Should Components Load Data?](https://emberigniter.com/should-components-load-data/) by Frank Treacy
 
@@ -463,6 +526,7 @@
 
 
 
+
 ## VIDEOS
 
 ### 
@@ -477,3 +541,11 @@
 
 ### 2016-05-111
 * [Ember-Redux Origin Story](https://vimeo.com/166199795) by Toran Billups
+
+
+
+
+## Rails
+
+### 2016-04-12
+* [JWT Rails API Challenge](http://ryanlabouve.com/jwt-rails-api-challenge/) by Ryan LaBouve
