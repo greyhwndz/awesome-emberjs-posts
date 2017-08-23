@@ -1,7 +1,19 @@
 # Awesome EmberJS Posts
 
-#### Updated: 2017-06-29
+#### Updated: 2017-08-01
 
+
+
+### 2017-08-01
+* [Authorization Considerations For Phoenix Contexts](https://dockyard.com/blog/2017/08/01/authorization-for-phoenix-contexts) by Chris McCord
+
+
+### 2017-07-20
+* [How to build a Progressive Web App with Ember](https://dockyard.com/blog/2017/07/20/how-to-build-a-pwa-with-ember) by Marten Schilstra
+
+
+### 2017-07-18
+* [Ember Best Practices: Reducing CRUD complexity with components](https://dockyard.com/blog/2017/07/18/ember-best-practices-form-components) by Nico Mihalich
 
 
 ### 2017-06-16
@@ -10,6 +22,7 @@
 * [Complex Components in Ember - Part 2 - A more reactive component](https://balinterdi.com/blog/complex-components-in-ember-dot-js-part-2-towards-a-more-reactive-component/) by Balint Erdi
 * [Complex Component Design in Ember - Part 3 - Replace the observer](https://balinterdi.com/blog/complex-component-design-in-ember-replace-the-observer/) by Balint Erdi
 * [Building a Progressive Web App with Ember](https://madhatted.com/2017/6/16/building-a-progressive-web-app-with-ember) by Matthew Beale
+* [Ember Best Practices: What are controllers good for?](https://dockyard.com/blog/2017/06/16/ember-best-practices-what-are-controllers-good-for) by Marten Schilstra
 
 
 ### 2017-06-09
@@ -171,6 +184,10 @@
 * [How to do an "if equals" conditional comparison in Handlebars](https://emberigniter.com/how-to-equals-conditional-comparison-handlebars/) by Frank Treacy
 
 
+### 2016-11-18
+* [Making a DDAU checkbox list in Ember.js](https://dockyard.com/blog/2016/10/20/live-search-with-jsonapi) by Nico Mihalich
+
+
 ### 2016-11-14
 * [Choosing Ember over React in 2016](https://blog.instant2fa.com/choosing-ember-over-react-in-2016-41a2e7fd341#.cwg37mqa3) by Jesse Pollak
 
@@ -293,6 +310,10 @@
 * [Summer of Ember - Always Call this._super()](https://www.mutuallyhuman.com/blog/2016/07/01/summer-of-ember-always-call-this-_super) by Matt Mercieca
 
 
+### 2016-06-28
+* [Component Dependency Injection for Testing In Ember.js](https://dockyard.com/blog/2016/06/28/component-dependency-injection) by Lauren Tan
+
+
 ### 2016-06-26
 * [Adjust Naming Conventions in Adapters and Serializers](https://emberigniter.com/adjust-naming-conventions-adapters-serializers/) by Frank Treacy
 
@@ -303,6 +324,10 @@
 
 ### 2016-06-18
 * [Bringing Ecto Changesets into Ember.js](https://emberway.io/bringing-ecto-changesets-into-ember-js-8e665ec70ab6) by Lauren Elizabeth Tan
+
+
+### 2016-06-17
+* [Bringing Ecto Changesets into Ember.js](https://dockyard.com/blog/2016/06/17/ember-changeset) by Lauren Tan
 
 
 ### 2016-05-30
