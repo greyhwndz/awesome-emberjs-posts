@@ -1,11 +1,58 @@
 # Awesome EmberJS Posts
 
-#### Updated: 2017-08-01
+#### Updated: 2017-09-15
 
+
+
+### 2017-09-15
+* [Ember + Apollo Tutorial - Introduction](https://www.howtographql.com/ember-apollo/0-introduction/) by Devan Beitel
+
+
+### 2017-09-14
+* [EmberJS: A Newcomer’s Perspective](https://blog.madewithenvy.com/emberjs-a-newcomers-perspective-583d02841657) by Devan Beitel
+
+
+### 2017-09-08
+* [Removing jQuery from Ember - For Dummies](http://blog.shipshape.io/ember-without-jquery/) by Robert Wagner
+
+
+### 2017-09-07
+* [Ember. Your best bet.](https://medium.com/@alvincrespo/ember-your-best-bet-b5cd7275dc84) by Alvin Crespo
+* [Ember.js, mentorship, and the confidence gap](https://medium.com/this-dot-labs/ember-mentorship-and-the-confidence-gap-8c0b93dc1ccd) by Julia Donaldson
+
+
+### 2017-08-15
+* [Ember.js — Set up constants](https://medium.com/@quangtn0018/ember-js-set-up-constants-e3f31f5b8927) by Quang Nguyen
+
+
+### 2017-08-14
+* [How To Use Ember’s New Module Import Syntax Today](https://medium.com/@Dhaulagiri/embers-javascript-modules-api-b4483782f329) by Brian Runnells
+
+
+### 2017-08-13
+* [Rise From the Ashes — Incremental APIs With Phoenix](https://medium.com/@sugarpirate/rise-from-the-ashes-incremental-apis-with-phoenix-b08cd66bd142) by Lauren Elizabeth Tan
+
+
+### 2017-08-08
+* [Announcing ember-cli-typescript 1.0.0](http://www.chriskrycho.com/2017/announcing-ember-cli-typescript-100.html) by Chris Krycho
+
+
+### 2017-08-02
+* [Part 2: Should you use Ember FastBoot or not?](https://dockyard.com/blog/2017/08/02/should-you-use-ember-fastboot-or-not-part-2) by Brian Cardarella
+* [Ember.js — How to set classes](https://medium.com/@quangtn0018/ember-js-how-to-set-classes-a1f117575243) by Quang Nguyen
 
 
 ### 2017-08-01
 * [Authorization Considerations For Phoenix Contexts](https://dockyard.com/blog/2017/08/01/authorization-for-phoenix-contexts) by Chris McCord
+* [Part 1: Should you use Ember FastBoot or not?](https://dockyard.com/blog/2017/08/01/should-you-use-ember-fastboot-or-not-part-1)
+
+
+### 2017-07-31
+* [Typing Your Ember, Part 4](http://www.chriskrycho.com/2017/typing-your-ember-part-4.html) by Chris Krycho
+
+
+### 2017-07-28
+* [Typing Your Ember, Part 3](http://www.chriskrycho.com/2017/typing-your-ember-part-3.html) by Chris Krycho
 
 
 ### 2017-07-20
@@ -14,6 +61,10 @@
 
 ### 2017-07-18
 * [Ember Best Practices: Reducing CRUD complexity with components](https://dockyard.com/blog/2017/07/18/ember-best-practices-form-components) by Nico Mihalich
+
+
+### 2017-07-17
+* [How Ember Data Loads Async Relationships: Part 3](http://www.amielmartin.com/blog/2017/07/17/how-ember-data-loads-async-relationships-part-3/) by Amiel Martin
 
 
 ### 2017-06-16
@@ -29,13 +80,31 @@
 * [Delete an item with confirmation in Ember.js](https://balinterdi.com/blog/delete-with-confirmation-in-emberjs/) by Balint Erdi
 
 
+### 2017-05-17
+* [How Ember Data Loads Async Relationships: Part 2](http://www.amielmartin.com/blog/2017/05/17/how-ember-data-loads-async-relationships-part-2/) by Amiel Martin
+
+
+### 2017-05-10
+* [How to Fix Ember’s Content Security Policy](https://medium.com/@micahbales/how-to-fix-embers-content-security-policy-f1277024d558) by Micah Bales
+
+
+### 2017-05-07
+* [Typing Your Ember, Part 2](http://www.chriskrycho.com/2017/typing-your-ember-part-2.html) by Chris Krycho
+
+
 ### 2017-05-05
 * [A note on actions](https://embermap.com/notes/26-a-note-on-actions) by Sam Selikoff
+* [How Ember Data Loads Async Relationships: Part 1](http://www.amielmartin.com/blog/2017/05/05/how-ember-data-loads-relationships-part-1/) by Amiel Martin
+* [Typing Your Ember, Part 1](http://www.chriskrycho.com/2017/typing-your-ember-part-1.html) by Chris Krycho
 
 
 ### 2017-05-01
 * [Ember Actions: Best Practices](https://medium.com/@jordanvincent/ember-actions-best-practices-442be5eed88d) by Jordan Vincent
 * [Lessons from a year in JavaScript —AngularJS vs EmberJS](https://medium.com/@bradleybirch09/lessons-from-a-year-in-javascript-angularjs-vs-emberjs-40c88d6f4d95) by Bradley Birch
+
+
+### 2017-04-31
+* [Reloading hasMany relationships](http://blog.shipshape.io/reloading-hasmany-relationships/) by Robert Wagner
 
 
 ### 2017-04-30
@@ -57,6 +126,10 @@
 
 ### 2017-04-21
 * [Ember CLI Targets](http://rwjblue.com/2017/04/21/ember-cli-targets/) by Robert Jackson
+
+
+### 2017-04-20
+* [Testing Ember.js Mixins (and Helpers) With a Container](http://www.chriskrycho.com/2016/testing-emberjs-mixins-with-a-container.html) by Chris Krycho
 
 
 ### 2017-04-18
@@ -174,6 +247,7 @@
 
 ### 2016-12-10
 * [Using ember-changeset with ember-redux](https://emberway.io/using-ember-changeset-with-ember-redux-200a7e46c59a) by Dustin Farris
+* [Using ember-changeset with ember-redux Better inputs without mutating state](https://emberway.io/using-ember-changeset-with-ember-redux-200a7e46c59a) by Dustin Farris
 
 
 ### 2016-11-22
@@ -249,6 +323,10 @@
 * [Creating an Accordion with Contextual Components in Ember](https://www.mutuallyhuman.com/blog/2016/09/23/creating-an-accordion-with-contextual-components-in-ember) by Chris Westra
 
 
+### 2016-09-21
+* [Deploy an Ember.js app to Google Cloud](https://medium.com/icarus-wings/deploy-an-ember-js-app-to-google-cloud-18f2d68c6a4e) by Patrick Berkeley
+
+
 ### 2016-08-31
 * [Redirect to a "default" subroute](https://emberigniter.com/redirect-to-default-subroute/) by Frank Treacy
 
@@ -263,6 +341,10 @@
 
 ### 2016-08-18
 * [Serving Single/Multiple Ember Apps inside Phoenix](https://medium.com/@mustafaturan/serving-single-multiple-ember-apps-inside-phoenix-f0a7528387ea) by Mustafa Turan
+
+
+### 2016-08-13
+* [Rise From the Ashes — Incremental APIs With Phoenix](https://medium.com/@sugarpirate/rise-from-the-ashes-incremental-apis-with-phoenix-b08cd66bd142) by 
 
 
 ### 2016-08-12
@@ -296,6 +378,7 @@
 
 ### 2016-07-15
 * [Things to consider when adding websocket updates to Ember apps](https://www.mutuallyhuman.com/blog/2016/07/15/things-to-consider-when-adding-websocket-updates-to-ember-apps) by Chris Westra
+* [Testing flexi breakpoints](https://emberway.io/testing-flexi-breakpoints-d4390ba075d4) by Dustin Farris
 
 
 ### 2016-07-10
@@ -308,6 +391,10 @@
 
 ### 2016-07-01
 * [Summer of Ember - Always Call this._super()](https://www.mutuallyhuman.com/blog/2016/07/01/summer-of-ember-always-call-this-_super) by Matt Mercieca
+
+
+### 2016-06-29
+* [Component dependency injection in Ember.js](https://emberway.io/component-dependency-injection-in-ember-js-a46a39a5d30a) by Lauren Elizabeth Tan
 
 
 ### 2016-06-28
@@ -328,6 +415,10 @@
 
 ### 2016-06-17
 * [Bringing Ecto Changesets into Ember.js](https://dockyard.com/blog/2016/06/17/ember-changeset) by Lauren Tan
+
+
+### 2016-06-15
+* [Test-Driving Ember.js CRUD Operations](https://semaphoreci.com/community/tutorials/test-driving-ember-js-crud-operations) by Damien White
 
 
 ### 2016-05-30
@@ -383,7 +474,7 @@
 
 ### 2016-04-22
 * [Route Closure Actions in Ember.js](https://emberway.io/route-closure-actions-in-ember-js-d0a7a37a5d1b) by Lauren Elizabeth Tan
-
+* [Declarative Templating in Ember with Composable Helpers](https://emberway.io/declarative-templating-in-ember-with-composable-helpers-a70f01d67165) by Lauren Elizabeth Tan
 
 ### 2016-04-16
 * [Update: Setting a Current User Property with Ember Simple Auth](http://www.thegreatcodeadventure.com/update-setting-a-current-user-property-with-ember-simple-auth/) by Sophie DeBenedetto
@@ -406,6 +497,10 @@
 * [Using Ember Charts to Integrate D3.js into your Ember App](http://www.thegreatcodeadventure.com/using-ember-charts-to-integrate-d3-with-ember/) by Sophie DeBenedetto
 
 
+### 2016-03-24
+* [Building Mobile Apps with Ember](https://medium.com/@joaomdmoura/building-mobile-apps-with-ember-5b4f95d88547) by João Moura
+
+
 ### 2016-03-16
 * [Building User Registration with Ember Simple Auth](http://www.thegreatcodeadventure.com/building-user-registration-with-ember-simple-auth/) by Sophie DeBenedetto
 
@@ -422,6 +517,10 @@
 * [Why JSON Web Tokens Are Truly Awesome](https://medium.com/@leo/why-json-web-tokens-are-truly-awesome-23fb80b7fc20) by Leo Lamprecht
 
 
+### 2016-03-02
+* [Developing a Test-Driven Front-End with Ember.js](https://semaphoreci.com/community/tutorials/developing-a-test-driven-front-end-with-ember-js) by Damien White
+
+
 ### 2016-02-28
 * [Pagination in Ember with a JSON API Backend](https://emberigniter.com/pagination-in-ember-with-json-api-backend/) by Frank Treacy
 
@@ -431,6 +530,10 @@
 * [Generating static websites with Ember-CLI and Fastboot](https://medium.com/developers-writing/generating-static-websites-with-ember-cli-and-fastboot-88f0d2db13cb) by Martin Malinda
 * [Persisting Records with Has Many/Belongs To in Ember](http://www.thegreatcodeadventure.com/persisting-records-with-has-many-belongs-to-in-ember/) by Sophie DeBenedetto
 * [Creating New Records with Ember's Embedded Record Mixin](http://www.thegreatcodeadventure.com/creating-new-records-with-embers-embedded-record-mixin/) by Sophie DeBenedetto
+
+
+### 2016-02-24
+* [Test-Driving Ember.js Components](https://semaphoreci.com/community/tutorials/test-driving-ember-js-components) by Damien White
 
 
 ### 2016-02-21
@@ -488,6 +591,10 @@
 * [Handling Errors with Ember Data](http://thejsguy.com/2016/01/09/handling-errors-with-ember-data.html) by David Tang
 
 
+### 2015-12-15
+* [Debugging Ember-cli Build Times](https://medium.com/@Dhaulagiri/debugging-ember-cli-build-times-38bd1b0f55f9) by Brian Runnells
+
+
 ### 2015-11-30
 * [Mocking Integration Test Data with Ember CLI Mirage](https://emberigniter.com/mocking-data-with-ember-cli-mirage/) by Frank Treacy
 * [How to Test Ember Components](https://emberigniter.com/test-ember-components-integration/) by Frank Treacy
@@ -501,6 +608,10 @@
 * [Force Ember Data to reload data from backend API](https://emberigniter.com/force-store-reload-data-api-backend/) by Frank Treacy
 
 
+### 2015-10-15
+* [Decorating Arrays in Ember](https://robots.thoughtbot.com/decorating-arrays-in-ember) by Josh Clayton
+
+
 ### 2015-10-14
 * [Should we use Controllers?](https://emberigniter.com/should-we-use-ember-controllers/) by Frank Treacy
 
@@ -512,6 +623,10 @@
 
 ### 2015-09-26
 * [How to Load Multiple Models in a Single Route](https://emberigniter.com/load-multiple-models-single-route/) by Frank Treacy
+
+
+### 2016-09-16
+* [Test-Driving Ember.js Models](https://semaphoreci.com/community/tutorials/test-driving-ember-js-models) by Damien White
 
 
 ### 2015-08-30
@@ -556,6 +671,11 @@
 
 ### 
 * [ember redux](https://vimeo.com/212534548) by Toran Billups
+
+
+### 2017-03-03
+* [How Do You Add Environmental Variables to Ember.js?](https://www.youtube.com/watch?v=pX7pM0tBTfo) by Erik Hanchett
+
 
 ### 2017-02-21
 * [Intermediate test driven development 201 “Over Mocking”](https://vimeo.com/205000323) by Toran Billups
