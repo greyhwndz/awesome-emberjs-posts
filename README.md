@@ -1,7 +1,15 @@
 # Awesome EmberJS Posts
 
-#### Updated: 2017-09-15
+#### Updated: 2017-10-05
 
+
+
+### 2017-10-03
+* [Data with Rails and Ember CLI, Part 2: Building the Front End](https://spin.atomicobject.com/2017/10/03/rails-ember-cli-front-end/) by Laura Robb
+
+
+### 2017-10-02
+* [Data with Rails and Ember CLI, Part 1: Setting up the API](https://spin.atomicobject.com/2017/10/02/rails-ember-cli-data-api/) by Laura Robb
 
 
 ### 2017-09-15
@@ -65,6 +73,10 @@
 
 ### 2017-07-17
 * [How Ember Data Loads Async Relationships: Part 3](http://www.amielmartin.com/blog/2017/07/17/how-ember-data-loads-async-relationships-part-3/) by Amiel Martin
+
+
+### 2017-06-25
+* [Ember Tips: Testing Outgoing HTTP Requests](https://karolgalanciak.com/blog/2017/06/25/ember-tips-testing-outgoing-http-requests/) by Karol Galanciak
 
 
 ### 2017-06-16
@@ -201,6 +213,10 @@
 * [PromiseProxyMixin: pure Ember alternative to ember-concurrency](http://blog.deveo.com/promiseproxymixin-pure-ember-alternative-to-ember-concurrency/) by Andrey Mikhaylov
 
 
+### 2017-03-06
+* [Getting Started with Rails and Ember CLI](https://spin.atomicobject.com/2017/03/06/rails-ember-cli/) by Laura Robb
+
+
 ### 2017-03-01
 * [Building a Keyboard Manager Service in Ember.JS](https://emberway.io/building-a-keyboard-manager-service-in-ember-js-4012861a5d6f) by Patrick Berkeley
 
@@ -296,6 +312,10 @@
 
 ### 2016-10-20
 * [The Guide to Promises in Computed Properties](https://emberigniter.com/guide-promises-computed-properties/) by Frank Treacy
+
+
+### 2016-10-19
+* [Making Ember Objects More Strict: Only Access Defined Properties](https://spin.atomicobject.com/2016/10/19/strict-ember-objects/) by Will Pleasant-Ryan
 
 
 ### 2016-10-18
@@ -421,8 +441,16 @@
 * [Test-Driving Ember.js CRUD Operations](https://semaphoreci.com/community/tutorials/test-driving-ember-js-crud-operations) by Damien White
 
 
+### 2016-06-06
+* [Ember.js – Scroll to the Top on Every Page Load](https://spin.atomicobject.com/2016/06/06/ember-scroll-to-top/) by Jeff Burt
+
+
 ### 2016-05-30
 * [Fit Any Backend Into Ember with Custom Adapters & Serializers](https://emberigniter.com/fit-any-backend-into-ember-custom-adapters-serializers/) by Frank Treacy
+
+
+### 2016-05-03
+* [Creating Reusable Page Layouts in Ember](https://spin.atomicobject.com/2016/05/03/reusable-page-layouts-ember/) by Jeff Burt
 
 
 ### 2016-01-27
