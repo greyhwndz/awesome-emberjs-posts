@@ -63,6 +63,10 @@
 * [Typing Your Ember, Part 3](http://www.chriskrycho.com/2017/typing-your-ember-part-3.html) by Chris Krycho
 
 
+### 2017-07-27
+* [Generate URLs using the Ember router service](https://balinterdi.com/blog/generate-urls-with-the-ember-router-service/) by Balint Erdi
+
+
 ### 2017-07-20
 * [How to build a Progressive Web App with Ember](https://dockyard.com/blog/2017/07/20/how-to-build-a-pwa-with-ember) by Marten Schilstra
 
@@ -264,6 +268,11 @@
 ### 2016-12-10
 * [Using ember-changeset with ember-redux](https://emberway.io/using-ember-changeset-with-ember-redux-200a7e46c59a) by Dustin Farris
 * [Using ember-changeset with ember-redux Better inputs without mutating state](https://emberway.io/using-ember-changeset-with-ember-redux-200a7e46c59a) by Dustin Farris
+* [Using ember-changeset with ember-redux](https://emberway.io/using-ember-changeset-with-ember-redux-200a7e46c59a) by Dustin Farris
+
+
+### 2016-11-29
+* [Two-way symmetric relationships in Ember with JSON API - Part 2](https://balinterdi.com/blog/two-way-symmetric-relationships-in-ember-with-jsonapi-part-2/) by Balint Erdi
 
 
 ### 2016-11-22
@@ -278,12 +287,16 @@
 * [Making a DDAU checkbox list in Ember.js](https://dockyard.com/blog/2016/10/20/live-search-with-jsonapi) by Nico Mihalich
 
 
+### 2016-11-17
+* [Two-way symmetric relationships in Ember with JSON API - Part 1](Two-way symmetric relationships in Ember with JSON API - Part 1) by Balint Erdi
+
+
 ### 2016-11-14
 * [Choosing Ember over React in 2016](https://blog.instant2fa.com/choosing-ember-over-react-in-2016-41a2e7fd341#.cwg37mqa3) by Jesse Pollak
 
 
-### 2016-12-10
-* [Using ember-changeset with ember-redux](https://emberway.io/using-ember-changeset-with-ember-redux-200a7e46c59a) by Dustin Farris
+### 2016-11-11
+* [Enable FastBoot in your Ember app](https://balinterdi.com/blog/enable-fastboot-in-your-ember-app/) by Balint Erdi
 
 
 ### 2016-11-29
@@ -322,9 +335,17 @@
 * [How I added Power-Select to an Ember App](https://medium.com/kungfugirlcode/how-i-added-power-select-to-an-ember-app-64786b8a1a39) by Anna Krupp
 
 
+### 2016-10-17
+* [Continuous Visual Integration for Ember apps](https://balinterdi.com/blog/continuous-visual-integration-for-ember-apps/) by Balint Erdi
+
+
 ### 2016-10-12
 * [Building an Ember Bookstore App](https://emberigniter.com/building-user-interface-around-ember-data-app/) by Frank Treacy
 * [Ember and Rails 5 with JSON API: A Modern Bridge](https://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/) by Frank Treacy
+
+
+### 2016-10-05
+* [Refactoring Promise Patterns](https://balinterdi.com/blog/refactoring-promise-patterns/) by Balint Erdi
 
 
 ### 2016-09-30
@@ -365,6 +386,7 @@
 
 ### 2016-08-13
 * [Rise From the Ashes — Incremental APIs With Phoenix](https://medium.com/@sugarpirate/rise-from-the-ashes-incremental-apis-with-phoenix-b08cd66bd142) by 
+* [Testing Async in Ember.js — Part One](https://medium.com/@chrisdmasters/testing-async-in-ember-js-part-one-7ec9bc070c0e) by Chris Masters
 
 
 ### 2016-08-12
@@ -374,6 +396,7 @@
 ### 2016-08-11
 * [Consider Using JSON:API For Your API](http://thejsguy.com/2016/08/11/consider-using-json-api-for-your-api.html) by David Tang
 * [Framework Routers and Linking](https://medium.com/@mattburgess/framework-routers-and-linking-98398af89022) by Matt Burgess
+* [Using Dependency Injection to Write Better Tests](https://balinterdi.com/blog/using-dependency-injection-to-write-better-tests/) by Balint Erdi
 
 
 ### 2016-08-06
@@ -382,6 +405,10 @@
 
 ### 2016-08-03
 * [Refactoring to Page Objects with ember-cli-page-object](http://thejsguy.com/2016/08/03/refactoring-to-page-objects-with-ember-cli-page-object.html) by David Tang
+
+
+### 2016-08-02
+* [Migrating from Liquid Fire modals to Ember Elsewhere modals in Ember.js](https://medium.com/@chrisdmasters/migrating-from-liquid-fire-modals-to-ember-elsewhere-modals-in-ember-js-9f7142ff1dec) by Chris Masters
 
 
 ### 2016-07-23
@@ -459,7 +486,8 @@
 
 
 ### 2016-05-26
-* [Quickest Backend API for Ember](https://emberigniter.com/quickest-backend-api-for-ember/)
+* [Quickest Backend API for Ember](https://emberigniter.com/quickest-backend-api-for-ember/) by Frank Treacy
+* [Complex Component Design in Ember - Part 4 - Use the hash helper](https://balinterdi.com/blog/complex-component-design-in-ember-part-4-use-the-hash-helper/) by Balint Erdi
 
 
 ### 2016-05-23
@@ -469,6 +497,10 @@
 ### 2016-05-11
 * [Implementing Authentication with Ember Services](https://emberigniter.com/implementing-authentication-with-ember-services/) by Frank Treacy
 * [Real-world Authentication with Ember Simple Auth](https://emberigniter.com/real-world-authentication-with-ember-simple-auth/) by Frank Treacy
+
+
+### 2016-05-09
+* [Pushing JSON directly into an Ember Data 1.13+ store](https://medium.com/@chrisdmasters/pushing-json-directly-into-an-ember-data-1-13-store-d91364f3ebc5) by Chris Masters
 
 
 ### 2016-05-05
@@ -519,6 +551,7 @@
 
 ### 2016-04-08
 * [Get Up and Running with Ember FastBoot](http://thejsguy.com/2016/04/08/get-up-and-running-with-ember-fastboot.html) by David Tang
+* [Complex Component Design in Ember - Part 3 - Replace the observer](https://balinterdi.com/blog/complex-component-design-in-ember-replace-the-observer/) by Balint Erdi
 
 
 ### 2016-04-02
@@ -576,6 +609,10 @@
 * [Speeding up Ember CLI slow project creation](https://emberigniter.com/speeding-up-ember-cli-slow-project-creation/) by Frank Treacy
 
 
+### 2016-02-12
+* [How to make an Ember module resolve as another one](https://balinterdi.com/blog/how-to-make-an-ember-module-resolve-as-another-one/) by Balint Erdi
+
+
 ### 2016-02-07
 * [Integrating SASS and Bootstrap to Ember Components](https://emberigniter.com/integrating-sass-bootstrap-ember-components/) by Frank Treacy
 * [Implementing non-RESTful Actions With Ember Data](https://karolgalanciak.com/blog/2016/02/07/implementing-non-restful-actions-with-ember-data/) by Karol Galanciak
@@ -588,6 +625,14 @@
 
 ### 2016-02-05
 * [How to Uninstall an Ember Add-on](https://emberigniter.com/uninstall-remove-ember-add-on/) by Frank Treacy
+
+
+### 2016-02-04
+* [Complex Components in Ember - Part 2 - A more reactive component](https://balinterdi.com/blog/complex-components-in-ember-dot-js-part-2-towards-a-more-reactive-component/) by Balint Erdi
+
+
+### 2016-02-03
+* [Binding style attributes warning in Ember](https://balinterdi.com/blog/binding-style-attributes-warning-in-ember/) by Balint Erdi
 
 
 ### 2016-01-29
@@ -619,6 +664,10 @@
 * [Handling Errors with Ember Data](http://thejsguy.com/2016/01/09/handling-errors-with-ember-data.html) by David Tang
 
 
+### 2015-12-18
+* [Complex Components in Ember.js - Part 1 - Analyzing user flows](https://balinterdi.com/blog/complex-components-in-ember-dot-js-part-1-analyzing-user-flows/) by Balint Erdi
+
+
 ### 2015-12-15
 * [Debugging Ember-cli Build Times](https://medium.com/@Dhaulagiri/debugging-ember-cli-build-times-38bd1b0f55f9) by Brian Runnells
 
@@ -626,6 +675,10 @@
 ### 2015-11-30
 * [Mocking Integration Test Data with Ember CLI Mirage](https://emberigniter.com/mocking-data-with-ember-cli-mirage/) by Frank Treacy
 * [How to Test Ember Components](https://emberigniter.com/test-ember-components-integration/) by Frank Treacy
+
+
+### 2015-11-10
+* [Filtering hasMany Async Relationships in Ember.js](https://medium.com/@chrisdmasters/filtering-hasmany-async-relationships-in-ember-js-80622a9fb6c7) by Chris Masters
 
 
 ### 2015-11-08
@@ -653,12 +706,24 @@
 * [How to Load Multiple Models in a Single Route](https://emberigniter.com/load-multiple-models-single-route/) by Frank Treacy
 
 
+### 2015-09-25
+* [Select in Ember with multiple selection](https://balinterdi.com/blog/select-in-ember-with-multiple-selection/) by Balint Erdi
+
+
 ### 2016-09-16
 * [Test-Driving Ember.js Models](https://semaphoreci.com/community/tutorials/test-driving-ember-js-models) by Damien White
 
 
+### 2016-09-10
+* [Complex Component Design in Ember.js - Intro](https://balinterdi.com/blog/complex-component-design-in-ember-intro/) by Balint Erdi
+
+
 ### 2015-08-30
 * [Server-Side Validation in Your Ember Application](https://www.bignerdranch.com/blog/server-side-validation-in-your-ember-application/) by Geoffrey Schorkopf
+
+
+### 2015-08-29
+* [How to do a select (dropdown) in Ember 2.0?](https://balinterdi.com/blog/how-to-do-a-select-dropdown-in-ember-20/) by Balint Erdi
 
 
 ### 2015-08-11
@@ -689,8 +754,72 @@
 * [Clearing All Records in the Local Ember Data Store](https://emberigniter.com/clear-ember-data-store/) by Frank Treacy
 
 
+### 2015-06-05
+* [Common Ember Mistakes](https://balinterdi.com/blog/common-ember-mistakes/) by Balint Erdi
+
+
+### 2015-05-14
+* [Mocking Services when writing Ember.js Tests](https://medium.com/@chrisdmasters/mocking-services-when-writing-ember-js-tests-fd4cbc9ebcdb) by Chris Masters
+
+
 ### 2014-11-16
 * [Metaprogramming and client side storage with EmberJS](https://emberway.io/metaprogramming-in-emberjs-627921395299) by Chris Atkins
+
+
+### 2014-06-26
+* [Ember gotcha: Controllers are singletons](https://balinterdi.com/blog/ember-gotcha-controllers-are-singletons/) by Balint Erdi
+
+
+### 2014-06-18
+* [Indicating Progress - Loading Routes in Ember.js](https://balinterdi.com/blog/indicating-progress-loading-routes-in-ember-dot-js/) by Balint Erdi
+
+
+### 2014-06-04
+* [Replacing items in browser history in Ember.js](https://balinterdi.com/blog/replacing-items-in-browser-history-in-ember-dot-js/) by Balint Erdi
+
+
+### 2014-05-28
+* [Setting the document title in Ember apps](https://balinterdi.com/blog/setting-the-document-title-in-ember-apps/) by Balint Erdi
+
+
+### 2014-05-22
+* [Make your own computed property macro in Ember.js](https://balinterdi.com/blog/make-your-own-computed-property-macro-in-emberjs/) by Balint Erdi
+
+
+### 2014-05-16
+* [Dependency injection in Ember.js - Going deeper](https://balinterdi.com/blog/dependency-injection-in-ember-dot-js-going-deeper/) by Balint Erdi
+
+
+### 2014-05-09
+* [Ember.run.bind](https://balinterdi.com/blog/ember-dot-run-dot-bind/) by Balint Erdi
+
+
+### 2014-05-01
+* [Dependency injection in Ember.js - First steps](https://balinterdi.com/blog/dependency-injection-in-ember-dot-js/) by Balint Erdi
+
+
+### 2014-03-26
+* [Observable path patterns in Ember](https://balinterdi.com/blog/property-path-patterns-in-ember-dot-js/) by Balint Erdi
+
+
+### 2014-03-19
+* [Ember.js getters and setters](https://balinterdi.com/blog/ember-dot-js-getters-and-setters/) by Balint Erdi
+
+
+### 2014-03-05
+* [Sorting arrays in Ember.js by various criteria](https://balinterdi.com/blog/sorting-arrays-in-ember-dot-js-by-various-criteria/) by Balint Erdi
+
+
+### 2014-02-26
+* [A common resource route pattern in Ember.js](https://balinterdi.com/blog/a-common-resource-route-pattern-in-ember-dot-js/) by Balint Erdi
+
+
+### 2014-01-14
+* [How real-time updates work in Discourse](https://balinterdi.com/blog/how-real-time-updates-work-in-discourse/) by Balint Erdi
+
+
+### 2013-12-03
+* [Roll your own Ember.js identity map](https://balinterdi.com/blog/roll-your-own-ember-dot-js-identity-map/) by Balint Erdi
 
 
 
