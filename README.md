@@ -4,12 +4,24 @@
 
 
 
+### 2017-10-04
+* [Why DockYard Builds with Ember.js](https://dockyard.com/blog/2017/10/04/why-dockyard-uses-ember) by Michael Dupuis
+
+
 ### 2017-10-03
 * [Data with Rails and Ember CLI, Part 2: Building the Front End](https://spin.atomicobject.com/2017/10/03/rails-ember-cli-front-end/) by Laura Robb
 
 
 ### 2017-10-02
 * [Data with Rails and Ember CLI, Part 1: Setting up the API](https://spin.atomicobject.com/2017/10/02/rails-ember-cli-data-api/) by Laura Robb
+
+
+### 2017-09-29
+* [How we cut down our ember build time?](https://dev.to/gokatz/how-we-cut-down-our-ember-build-time-ehh) by Gokul Kathirvel
+
+
+### 2017-09-27
+* [Encouraging iOS users to install your Progressive Web Apps in Ember](https://dockyard.com/blog/2017/09/27/encouraging-pwa-installation-on-ios) by Scott Bason
 
 
 ### 2017-09-23
