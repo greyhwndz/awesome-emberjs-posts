@@ -4,6 +4,10 @@
 
 
 
+### 2017-10-09
+* [One Year with Ember](https://0xadada.pub/2017/10/09/one-year-with-ember/) by 0xadada
+
+
 ### 2017-10-04
 * [Why DockYard Builds with Ember.js](https://dockyard.com/blog/2017/10/04/why-dockyard-uses-ember) by Michael Dupuis
 
