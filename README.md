@@ -1,6 +1,6 @@
 # Awesome EmberJS Posts
 
-#### Updated: 2017-10-05
+#### Updated: 2017-10-11
 
 
 
@@ -10,6 +10,10 @@
 
 ### 2017-10-02
 * [Data with Rails and Ember CLI, Part 1: Setting up the API](https://spin.atomicobject.com/2017/10/02/rails-ember-cli-data-api/) by Laura Robb
+
+
+### 2017-09-23
+* [Twitch Single Sign-On with Ember Simple Auth](https://spin.atomicobject.com/2017/09/23/twitch-sso-ember-simple-auth/) by Ryan Abel
 
 
 ### 2017-09-15
@@ -102,6 +106,10 @@
 
 ### 2017-05-10
 * [How to Fix Ember’s Content Security Policy](https://medium.com/@micahbales/how-to-fix-embers-content-security-policy-f1277024d558) by Micah Bales
+
+
+### 2017-05-08
+* [Making Your Ember Application Livable](https://spin.atomicobject.com/2017/05/08/livable-code-ember/) by Alex Zurek
 
 
 ### 2017-05-07
@@ -233,6 +241,10 @@
 * [Debugging Your Assumptions, Ember Edition](https://www.mutuallyhuman.com/blog/2017/02/17/debugging-your-assumptions-ember-edition) by Chris Westra
 
 
+### 2017-02-13
+* [Build an Offline Demo of your Ember App with Ember CLI Mirage](https://spin.atomicobject.com/2017/02/13/ember-app-offline-demo/) by John Ruble
+
+
 ### 2017-02-10
 * [Cascade Deleting Relationships in Ember Data](http://thejsguy.com/2017/02/10/cascade-deleting-relationships-in-ember-data.html) by David Tang
 
@@ -259,6 +271,7 @@
 
 ### 2016-12-29
 * [Ember Closure Action Explorations Pt 1](http://ryanlabouve.com/ember-closure-action-explorations-pt-1) by Ryan LaBouve
+* [Use ES2017’s async/await in your Ember Project Today!](https://spin.atomicobject.com/2016/12/29/async-await-ember-project/) by John Ruble
 
 
 ### 2016-12-11
@@ -271,8 +284,13 @@
 * [Using ember-changeset with ember-redux](https://emberway.io/using-ember-changeset-with-ember-redux-200a7e46c59a) by Dustin Farris
 
 
+### 2016-12-06
+* [Using Power Select to Create Interactive, User-Editable Drop-Downs](https://spin.atomicobject.com/2016/12/06/power-select-interactive-editable-drop-downs/) by Jaime Lightfoot
+
+
 ### 2016-11-29
 * [Two-way symmetric relationships in Ember with JSON API - Part 2](https://balinterdi.com/blog/two-way-symmetric-relationships-in-ember-with-jsonapi-part-2/) by Balint Erdi
+* [Four Noble Truths of Ember.js](https://spin.atomicobject.com/2016/11/29/ember-js-for-beginners/) by Drew Hoover
 
 
 ### 2016-11-22
@@ -339,6 +357,10 @@
 * [Continuous Visual Integration for Ember apps](https://balinterdi.com/blog/continuous-visual-integration-for-ember-apps/) by Balint Erdi
 
 
+### 2016-10-14
+* [Ember.js Components with DOM Dependencies](https://spin.atomicobject.com/2016/10/14/ember-js-dom-dependencies/) by Shawn Anderson
+
+
 ### 2016-10-12
 * [Building an Ember Bookstore App](https://emberigniter.com/building-user-interface-around-ember-data-app/) by Frank Treacy
 * [Ember and Rails 5 with JSON API: A Modern Bridge](https://emberigniter.com/modern-bridge-ember-and-rails-5-with-json-api/) by Frank Treacy
@@ -366,6 +388,10 @@
 
 ### 2016-09-21
 * [Deploy an Ember.js app to Google Cloud](https://medium.com/icarus-wings/deploy-an-ember-js-app-to-google-cloud-18f2d68c6a4e) by Patrick Berkeley
+
+
+### 2016-09-08
+* [Exporting Server-Side Types and Endpoints to Ember](https://spin.atomicobject.com/2016/09/08/exporting-server-side-types-endpoints-ember/) by Will Pleasant-Ryan
 
 
 ### 2016-08-31
@@ -452,8 +478,16 @@
 * [Adjust Naming Conventions in Adapters and Serializers](https://emberigniter.com/adjust-naming-conventions-adapters-serializers/) by Frank Treacy
 
 
+### 2016-06-25
+* [Three Reasons Ember.js Closure Actions Rule](https://spin.atomicobject.com/2016/06/25/emberjs-closure-actions/) by Ryan Abel
+
+
 ### 2016-06-23
 * [How to Preload Images in Ember.js](https://medium.com/@kiffin/how-to-preload-images-in-ember-js-6a6ba8d9095c) by Kiffin Gish
+
+
+### 2016-06-20
+* [Send HTML Elements to Another DOMension with Ember Wormhole](https://spin.atomicobject.com/2016/06/20/html-elements-ember-worhole/) by John Ruble
 
 
 ### 2016-06-18
@@ -509,6 +543,7 @@
 
 ### 2016-05-03
 * [Load Ember Data models from a non-REST API](https://emberigniter.com/retrieve-ember-data-models-non-rest-api/) by Frank Treacy
+* [Creating Reusable Page Layouts in Ember](https://spin.atomicobject.com/2016/05/03/reusable-page-layouts-ember/) by Jeff Burt
 
 
 ### 2016-05-01
@@ -543,6 +578,14 @@
 ### 2016-04-13
 * [Trick for Build Composable Components - Part 1](http://miguelcamba.com/blog/2016/04/13/tricks-for-build-composable-components-part-1/) by Miguel Camba
 * [Building a performant real-time web app with Ember Fastboot and Phoenix (Part 2)](https://medium.com/peep-stack/building-a-performant-real-time-web-app-with-ember-fastboot-and-phoenix-part-2-5dd2f74c7f34#.tc4guaec1) by Mike North
+
+
+### 2016-04-12
+* [Retrying Network Requests in Ember.js: Part 2](https://spin.atomicobject.com/2016/04/12/ember-retry-network-requests/) by Ryan Abel
+
+
+### 2016-04-11
+* [Retrying Network Requests in Ember.js: Part 1](https://spin.atomicobject.com/2016/04/11/ember-network-requests-retry/) by Ryan Abel
 
 
 ### 2016-04-09
@@ -611,6 +654,10 @@
 
 ### 2016-02-12
 * [How to make an Ember module resolve as another one](https://balinterdi.com/blog/how-to-make-an-ember-module-resolve-as-another-one/) by Balint Erdi
+
+
+### 2016-02-08
+* [Ember.js Validations the Easy (and Fast!) Way](https://spin.atomicobject.com/2016/02/08/ember-validations/) by John Fisher
 
 
 ### 2016-02-07
@@ -702,6 +749,10 @@
 * [Parent to Children Component Communication for UI State](https://emberigniter.com/parent-to-children-component-communication/) by Frank Treacy
 
 
+### 2015-10-08
+* [Implementing an Offscreen Menu in Ember.js](https://spin.atomicobject.com/2015/10/08/offscreen-emberjs-menu/) by Matt Rozema
+
+
 ### 2015-09-26
 * [How to Load Multiple Models in a Single Route](https://emberigniter.com/load-multiple-models-single-route/) by Frank Treacy
 
@@ -710,11 +761,15 @@
 * [Select in Ember with multiple selection](https://balinterdi.com/blog/select-in-ember-with-multiple-selection/) by Balint Erdi
 
 
-### 2016-09-16
+### 2015-09-17
+* [Two Techniques for Keeping Your Ember.js Project Clean](https://spin.atomicobject.com/2015/09/17/ember-js-clean/) by Ryan Abel
+
+
+### 2015-09-16
 * [Test-Driving Ember.js Models](https://semaphoreci.com/community/tutorials/test-driving-ember-js-models) by Damien White
 
 
-### 2016-09-10
+### 2015-09-10
 * [Complex Component Design in Ember.js - Intro](https://balinterdi.com/blog/complex-component-design-in-ember-intro/) by Balint Erdi
 
 
@@ -730,12 +785,20 @@
 * [Create your first Ember 2.0 app: From authentication to calling an API](https://auth0.com/blog/create-your-first-ember-2-dot-0-app-from-authentication-to-calling-an-api/) by Diego Poza
 
 
+### 2015-08-09
+* [Knowing When Your Ember App is Done Loading](https://spin.atomicobject.com/2015/08/29/ember-app-done-loading/) by John Ruble
+
+
 ### 2015-08-05
 * [Should Components Load Data?](https://emberigniter.com/should-components-load-data/) by Frank Treacy
 
 
 ### 2015-08-03
 * [How to Transform Just About Any Data Structure with Reduce](https://emberigniter.com/transform-any-data-structure-with-javascript-reduce/) by Frank Treacy
+
+
+### 2015-07-28
+* [Using Query Parameters in Ember.js](https://spin.atomicobject.com/2015/07/28/query-parameters-ember-js/) by Ryan Abel
 
 
 ### 2015-07-18
