@@ -1,7 +1,11 @@
 # Awesome EmberJS Posts
 
-#### Updated: 2017-10-14
+#### Updated: 2017-10-17
 
+
+
+### 2017-10-12
+* [Skeleton Screen Loading in Ember.js](https://emberway.io/skeleton-screen-loading-in-ember-js-2f7ac2384d63) by Lauren Elizabeth Tan
 
 
 ### 2017-10-09
@@ -1098,6 +1102,10 @@
 * [Knowing When Your Ember App is Done Loading](https://spin.atomicobject.com/2015/08/29/ember-app-done-loading/) by John Ruble
 
 
+### 2015-08-08
+* [Applying the Adapter Pattern for Analytics in Ember.js Apps](https://emberway.io/applying-the-adapter-pattern-for-analytics-in-ember-js-apps-29448cbcedf3) by Lauren Elizabeth Tan
+
+
 ### 2015-08-05
 * [Should Components Load Data?](https://emberigniter.com/should-components-load-data/) by Frank Treacy
 
@@ -1143,6 +1151,10 @@
 * [Common Ember Mistakes](https://balinterdi.com/blog/common-ember-mistakes/) by Balint Erdi
 
 
+### 2015-06-02
+* [Declarative Breadcrumb Navigation in Ember.js](https://emberway.io/declarative-breadcrumb-navigation-in-ember-js-5908a92a5de3) by Lauren Elizabeth Tan
+
+
 ### 2015-05-14
 * [Mocking Services when writing Ember.js Tests](https://medium.com/@chrisdmasters/mocking-services-when-writing-ember-js-tests-fd4cbc9ebcdb) by Chris Masters
 
@@ -1151,8 +1163,24 @@
 * [Using the Page Object Pattern With Ember CLI](https://wyeworks.com/blog/2015/5/13/using-the-page-object-pattern-with-ember-cli/) by Santiago Ferreira
 
 
+### 2015-04-18
+* [Creating an Ember CLI addon — Detecting Ember.js Components Entering or Leaving the Viewport](https://emberway.io/creating-an-ember-cli-addon-detecting-ember-js-components-entering-or-leaving-the-viewport-7d95ceb4f5ed)by Lauren Elizabeth Tan
+
+
+### 2015-01-17
+* [Ember.js & Reactive Programming — Computed Properties and Observers](https://emberway.io/ember-js-reactive-programming-computed-properties-and-observers-cf80c2fbcfc) by Lauren Elizabeth Tan
+
+
+### 2014-12-24
+* [Lazy Loading Videos in Ember](https://emberway.io/lazy-loading-videos-in-ember-7504a4abe34f) by Lauren Elizabeth Tan
+
+
 ### 2014-12-22
 * [Submit an Ember TextArea with Command or Ctrl + Enter](https://emberway.io/submit-an-ember-textarea-with-command-or-ctrl-enter-a933b4325b3b) by Lauren Elizabeth Tan
+
+
+### 2014-11-30
+* [Adding Flash Messages to an Ember App](https://emberway.io/adding-flash-messages-to-an-ember-app-437b13e49c1b) by Lauren Elizabeth Tan
 
 
 ### 2014-11-21
