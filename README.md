@@ -1037,6 +1037,10 @@
 * [Parent to Children Component Communication for UI State](https://emberigniter.com/parent-to-children-component-communication/) by Frank Treacy
 
 
+### 2015-10-10
+* [A Gentle Introduction to Ember 2.0](https://emberway.io/a-gentle-introduction-to-ember-2-0-8ef1f378ee4) by James Futhey
+
+
 ### 2015-10-08
 * [Implementing an Offscreen Menu in Ember.js](https://spin.atomicobject.com/2015/10/08/offscreen-emberjs-menu/) by Matt Rozema
 
@@ -1192,7 +1196,7 @@
 
 
 ### 2014-11-16
-* [Metaprogramming and client side storage with EmberJS](https://emberway.io/metaprogramming-in-emberjs-627921395299) by Chris Atkins
+* [Metaprogramming and client side storage with EmberJS: Building an Ember friendly LocalStorage adapter](https://emberway.io/metaprogramming-in-emberjs-627921395299) by Chris Atkins
 
 
 ### 2014-11-15
@@ -1270,6 +1274,9 @@
 ### 2017-10-12
 * [Glimmer & Friends — Using third-party modules in a Glimmer.js app](https://www.youtube.com/watch?v=Lhh7FyOv4fc) by Jamie White
 
+### 2017-08-16
+* [EmberCamp London 2017](https://www.youtube.com/playlist?list=PL4eq2DPpyBbkaJhe_qxVGMV1HiGjgKgZp) by Ember Videos
+
 ### 
 * [ember redux](https://vimeo.com/212534548) by Toran Billups
 
@@ -1288,6 +1295,9 @@
 
 ### 2016-05-11
 * [Ember-Redux Origin Story](https://vimeo.com/166199795) by Toran Billups
+
+### 2016-04-15
+* [EmberConf 2016: Idiomatic Ember: Sweet Spot of Performance and Productivity by Lauren Elizabeth Tan](https://www.youtube.com/watch?v=lP9ap-AKBAM) by Ember Videos
 
 
 
